@@ -1,4 +1,11 @@
 This is a minimalistic Arch Linux theme for SLiM.
-
 It is based on the Minimal Debian SLiM theme by Pasteurized »
 http://pasteurized.deviantart.com/art/Minimal-Debian-SLiM-theme-146727470
+
+Themes are stored in:
+/usr/share/slim/themes
+
+SLiM configurations are stored in:
+/etc/slim.conf
+
+There is a package on AUR mantained by me as well »
